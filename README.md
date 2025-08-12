@@ -1,64 +1,74 @@
-<!-- ======= Animated Banner ======= -->
-![Premal's Futuristic Banner](https://i.imgur.com/OeryK45.gif)
+<!-- Futuristic Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFF7,100:0055FF&height=250&section=header&text=Premal%20Ariwala&fontSize=60&fontColor=ffffff&animation=fadeIn" alt="Premal's Futuristic Banner"/>
+</p>
 
-<!-- Typing Intro -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00FFF7&width=850&lines=Hi%2C+I'm+Premal+Ariwala+%F0%9F%91%8B;Full-Stack+Developer+%7C+Cybersecurity+Explorer;Cloud+Architect+%7C+AI+Innovator)](https://git.io/typing-svg)
-
----
-
-## 🌟 Executive Summary
-As a **Full-Stack Developer** and **Cybersecurity Enthusiast**, I design and deploy **intelligent, secure, and scalable** digital solutions.  
-I thrive at the intersection of **AI, Cloud Computing, and DevSecOps**, creating systems that are **future-ready** and **human-focused**.  
-
-📊 **Impact so far**: Over **263 contributions** this year across **innovative projects**, open-source collaborations, and security research.
+<!-- Typing Intro Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00FFF7&center=true&vCenter=true&width=850&lines=Hey+there+👋,+I'm+Premal+Ariwala!;Full-stack+Dev+⚡+Cybersecurity+Explorer;Cloud+%26+AI+Builder+☁🤖;Turning+Coffee+into+Code+%E2%98%95💻" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-## 🛠 Core Competency Matrix
+# ⚡ About Me – *Coding the Future*
 
-**💻 Programming & Development**
-- Languages: Python, Java, C++, JavaScript (ES6+), TypeScript  
-- Frameworks: React.js, Next.js, Node.js, Vite  
-- UI/UX: Tailwind CSS, Figma
+> “I don’t just write code — I engineer realities that haven’t happened yet.”
 
-**☁ Cloud & DevOps**
-- AWS (EC2, S3, Lambda), Docker, GitHub Actions  
-- CI/CD pipelines, Terraform, Cloud Security Best Practices
-
-**🔐 Cybersecurity**
-- Threat Modeling, Security Operations, Ethical Hacking Labs  
-- Vulnerability Assessment, SOC Monitoring Tools
-
-**🗄 Databases**
-- SQL: MySQL, PostgreSQL  
-- NoSQL: MongoDB, Firebase
+🚀 **Mission:** Build intelligent, secure, and cloud-native systems that adapt to the future.  
+🤖 **Specialties:** AI-driven apps, modern web stacks, and resilient cloud architectures.  
+🛡️ **Security Vision:** Make the digital world *unbreakable* (ethically 🔐).  
+🎯 **Core Belief:** People remember experiences, not just features.  
+✨ **Fun Fact:** When my code works first try, I check the simulation for glitches.
 
 ---
 
-## 🚀 Featured Project Portfolio
+## 🛠 Tech Arsenal
 
-| 📌 Project | 🔧 Tech Stack | 🌟 Highlights |
-|------------|--------------|---------------|
-| [**Blinker – Eye Care Web App**](https://blinkers.co.in) | React, TS, Tailwind, Vite | Improved SEO by **30%** & enhanced user engagement |
-| **AI-Powered Counselling Platform** | Python, Next.js, Firebase | Real-time ML models for career & emotional guidance |
-| **Garvi Gala PG Management** | Python, Firebase | Automated rent tracking & billing for property owners |
-| **Crypto Dashboard** | HTML, CSS, JS | Live crypto market data for 400+ beta testers |
+`Python` · `Java` · `C++` · `React.js` · `Node.js` · `Tailwind CSS`  
+`Next.js` · `TypeScript` · `MySQL` · `MongoDB` · `AWS` · `DevOps` · `Linux`
 
 ---
 
-## 📜 Certifications & Achievements
+## 🚀 Projects & Command Center
 
-- **Foundations of Cybersecurity** – Kennesaw University (Nov 2024) [Verify](https://coursera.org/verify/F7NMYB6B6Z63)  
-- **R Programming for Data Science** – IBM (Nov 2024) [Verify](https://coursera.org/verify/7OTTS8FQ2VB7)  
-- **Cybersecurity Capstone** – IBM (Nov 2024) [Verify](https://coursera.org/verify/7DHB8AGGIC6P)  
-- **Security Operations** – ISC2 (Nov 2024) [Verify](https://coursera.org/verify/5KALFQJQKPQC)  
-- **DevOps on AWS Specialization** – AWS (Nov 2024) [Verify](https://coursera.org/verify/I86AALNHGZW5)  
+### 🩵 [Blinker – Eye Care Web App](https://blinkers.co.in)
+SEO-optimized clinic web app – boosted reach by **30%**!
 
-📌 *Full 30+ certifications listed in my [Certifications Repo](#).*
+### 🤖 [AI-Powered Counselling System](https://github.com/counselling)
+Career guidance + emotional support with **real-time ML**.
+
+### 🏢 Garvi Gala PG Management
+Automated rent tracking; efficiency unlocked 🚀.
+
+### 📈 Crypto News & Price Dashboard
+Live crypto news and charts for **400+ beta users**.
 
 ---
 
-## 📊 GitHub Analytics
+## 📜 Certifications
+
+| 🎖 Certification               | 🏛 Provider        | 📅 Date   | 🔗 Link |
+|-------------------------------|-------------------|-----------|---------|
+| Foundations of Cybersecurity   | Kennesaw Univ.    | Nov 2024  | [Verify](https://coursera.org/verify/F7NMYB6B6Z63) |
+| R Programming for Data Science | IBM               | Nov 2024  | [Verify](https://coursera.org/verify/7OTTS8FQ2VB7) |
+| Cybersecurity Capstone         | IBM               | Nov 2024  | [Verify](https://coursera.org/verify/7DHB8AGGIC6P) |
+| Security Operations            | ISC2              | Nov 2024  | [Verify](https://coursera.org/verify/5KALFQJQKPQC) |
+| DevOps on AWS Specialization   | AWS               | Nov 2024  | [Verify](https://coursera.org/verify/I86AALNHGZW5) |
+
+---
+
+## 📅 Isometric Commit Calendar
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Isometric Calendar" />
+</p>
+<!-- If your workflow creates SVGs with different names, replace 'profile-night-rainbow.svg' with the actual filename found in your repo's profile-3d-contrib/ folder. -->
+
+---
+
+## 📊 GitHub Stats
 
 ![Premal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Premal-hub&show_icons=true&theme=react)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Premal-hub&theme=neon-dark)
@@ -66,25 +76,13 @@ I thrive at the intersection of **AI, Cloud Computing, and DevSecOps**, creating
 
 ---
 
-## 🧠 Current Focus Areas
-- Advanced **Cybersecurity** Red vs Blue Team simulations  
-- Building **Cross-Cloud DevOps** automation pipelines  
-- Integrating **AI with Cloud-native applications**  
+## 🎉 Fun Zone
+
+- 🐧 I speak Python, Java, and fluent sarcasm 😏
+- 🚀 Debug mantra: `"printf()" + hope`
+- 🍍 Pineapple on pizza squad leader forever
 
 ---
 
-## 🎯 Fun Facts
-- 🐧 Speaks Python, Java, and fluent sarcasm  
-- ☕ Coffee in, code out  
-- 🍍 *Pineapple on pizza* advocate  
+> ⚡ **Let’s connect & create the future — one commit at a time.**
 
----
-
-## 📡 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-PremalAriwala-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourlink)  
-[![Email](https://img.shields.io/badge/Email-ContactMe-red?style=for-the-badge&logo=gmail)](mailto:youremail@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=About.me)](https://yourportfolio.com)  
-
----
-
-> *"Code is poetry. Security is peace. Innovation is the bridge."*
