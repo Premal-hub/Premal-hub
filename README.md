@@ -65,6 +65,22 @@ Serving 400+ users a real-time, seamless cryptocurrency price and news experienc
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Isometric Calendar" />
 </p>
 
+
+
+
+
+## 📅 My 3D GitHub Commit Calendar & Languages Donut Chart
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Isometric Calendar" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premal-hub&layout=donut&theme=react&hide_border=true" alt="Most Used Languages Donut Chart" width="320" />
+</p>
+
+
+
 ---
 
 ## 📊 GitHub Stats — Fresh, Futuristic & Fun
@@ -77,6 +93,10 @@ Serving 400+ users a real-time, seamless cryptocurrency price and news experienc
 <p align="center">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premal-hub&layout=compact&theme=react&hide_border=true&cache_seconds=180" width="30%" style="border-radius: 12px; filter: drop-shadow(0 0 10px #0070f3);" />
 </p>
+
+
+
+
 
 ---
 
