@@ -59,7 +59,7 @@ Serving 400+ users a real-time, seamless cryptocurrency price and news experienc
 
 ---
 
-## 📅 My 3D GitHub Commit Calendar
+## 📅  GitHub Commit Calendar
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Isometric Calendar" />
