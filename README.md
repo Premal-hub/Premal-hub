@@ -64,15 +64,27 @@ Live crypto news and charts for **400+ beta users**.
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Isometric Calendar" />
 </p>
-<!-- If your workflow creates SVGs with different names, replace 'profile-night-rainbow.svg' with the actual filename found in your repo's profile-3d-contrib/ folder. -->
+
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats – Real-Time & Futuristic View
 
-![Premal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Premal-hub&show_icons=true&theme=react)
-![GitHub Streak](https://streak-stats.demolab.com?user=Premal-hub&theme=neon-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Premal-hub&layout=compact&theme=react)
+<p align="center">
+  <!-- Neon glow effect on images -->
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Premal-hub&show_icons=true&theme=react&hide_border=true&cache_seconds=180" width="48%" style="border-radius: 8px; filter: drop-shadow(0 0 8px #00d9f7);" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Premal-hub&theme=neon-dark&hide_border=true&cache_seconds=180" width="48%" style="border-radius: 8px; filter: drop-shadow(0 0 8px #20c997);" />
+</p>
+
+<p align="center">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premal-hub&layout=compact&theme=react&hide_border=true&cache_seconds=180" width="30%" style="border-radius: 8px; filter: drop-shadow(0 0 6px #0070f3);" />
+</p>
+
+---
+
+*Stats update approximately every few minutes for fresh and vibrant stats visualized with neon-glow effects to give a real-time futuristic look.*
+
+
 
 ---
 
