@@ -73,7 +73,9 @@ Live crypto news and charts for **400+ beta users**.
 <p align="center">
   <!-- Neon glow effect on images -->
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Premal-hub&show_icons=true&theme=react&hide_border=true&cache_seconds=180" width="48%" style="border-radius: 8px; filter: drop-shadow(0 0 8px #00d9f7);" />
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Premal-hub&theme=neon-dark&hide_border=true&cache_seconds=180" width="48%" style="border-radius: 8px; filter: drop-shadow(0 0 8px #20c997);" />
+  
+ <p align="center">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Premal-hub&theme=neon-dark&hide_border=true" width="48%" style="border-radius: 8px; filter: drop-shadow(0 0 8px #20c997);" />
 </p>
 
 <p align="center">
@@ -82,7 +84,7 @@ Live crypto news and charts for **400+ beta users**.
 
 ---
 
-*Stats update approximately every few minutes for fresh and vibrant stats visualized with neon-glow effects to give a real-time futuristic look.*
+
 
 
 
