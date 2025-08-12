@@ -86,7 +86,7 @@ Serving 400+ users a real-time, seamless cryptocurrency price and news experienc
 
 
 
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premal-hub&layout=compact&theme=react&hide_border=true&cache_seconds=180" width="40%" style="border-radius: 12px; filter: drop-shadow(0 0 10px #0070f3);" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premal-hub&layout=compact&theme=react&hide_border=true&cache_seconds=180" width="35%" style="border-radius: 12px; filter: drop-shadow(0 0 10px #0070f3);" />
 </p>
 
 
