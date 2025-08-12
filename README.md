@@ -79,13 +79,13 @@ Serving 400+ users a real-time, seamless cryptocurrency price and news experienc
 
 <p align="center">
 <!--   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Premal-hub&show_icons=true&theme=react&hide_border=true&cache_seconds=180" width="48%" style="border-radius: 12px; filter: drop-shadow(0 0 12px #00d9f7);" /> -->
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats-eight.vercel.app?user=Premal-hub&theme=neon-dark&hide_border=true" width="48%" style="border-radius:12px; filter:drop-shadow(0 0 12px #20c997);" />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats-eight.vercel.app?user=Premal-hub&theme=neon-dark&hide_border=true" width="50%" style="border-radius:12px; filter:drop-shadow(0 0 12px #20c997);" />
 
   
 </p>
 
 <p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premal-hub&layout=compact&theme=react&hide_border=true&cache_seconds=180" width="30%" style="border-radius: 12px; filter: drop-shadow(0 0 10px #0070f3);" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premal-hub&layout=compact&theme=react&hide_border=true&cache_seconds=180" width="50%" style="border-radius: 12px; filter: drop-shadow(0 0 10px #0070f3);" />
 </p>
 
 
